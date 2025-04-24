@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 <br>I'm Ashish Paul</h1>
+<h1 align="center">Hey there 👋 <br>I'm Ashish Paul</h1>
 
 ###
 
@@ -88,6 +88,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshishPaul09/AshishPaul09/output/pacman-contribution-graph-dark.svg">
