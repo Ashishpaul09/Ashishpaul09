@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working  as Full-Stack Developer<br>- 📚 I'm currently learning Flack<br>- 👯 I’m looking to collaborate on c# ASP.NET Core project</p>
+<p align="left">- 🔭 I’m working  as Full-Stack Developer<br>- 📚 I'm currently learning Flack<br>- 👯 I’m looking to collaborate on c# ASP.NET Core project,NestJs</p>
 
 ###
 
