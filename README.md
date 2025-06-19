@@ -1,4 +1,4 @@
-<div align="center">
+git <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working  as Full-Stack Developer<br>- 📚 I'm currently learning Flack<br>- 👯 I’m looking to collaborate on c# ASP.NET Core project,NestJs</p>
+<p align="left">- 🔭 I'm working  as Full-Stack Developer<br>- 📚 I'm currently learning Flack<br>- 👯 I'm looking to collaborate on c# ASP.NET Core project,NestJs</p>
 
 ###
 
@@ -92,9 +92,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshishPaul09/AshishPaul09/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshishPaul09/AshishPaul09/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AshishPaul09/AshishPaul09/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshishPaul09/AshishPaul09/output/dist/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshishPaul09/AshishPaul09/output/dist/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AshishPaul09/AshishPaul09/output/dist/pacman-contribution-graph.svg">
 </picture>
 
 ###
